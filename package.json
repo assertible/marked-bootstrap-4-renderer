@@ -1,0 +1,33 @@
+{
+  "name": "marked-bootstrap-4-renderer",
+  "version": "0.0.1",
+  "description": "A custom marked.js renderer for bootstrap 4",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"TODO\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assertible/marked-bootstrap-4-renderer.git"
+  },
+  "keywords": [
+    "marked",
+    "bootstrap",
+    "markedjs",
+    "marked",
+    "renderer",
+    "bootstrap",
+    "markdown"
+  ],
+  "author": "Cody Reichert <codyreichert@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/assertible/marked-bootstrap-4-renderer/issues"
+  },
+  "homepage": "https://github.com/assertible/marked-bootstrap-4-renderer#readme",
+  "dependencies": {
+    "highlightjs": "8.7.0",
+    "htmlparser": "1.7.7",
+    "marked": "0.5.0"
+  }
+}
