@@ -2,7 +2,7 @@
   "name": "marked-bootstrap-4-renderer",
   "version": "0.0.1",
   "description": "A custom marked.js renderer for bootstrap 4",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"TODO\""
   },
