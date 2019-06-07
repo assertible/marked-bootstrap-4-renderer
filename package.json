@@ -1,6 +1,6 @@
 {
   "name": "marked-bootstrap-4-renderer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A custom marked.js renderer for bootstrap 4",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
   "dependencies": {
     "highlightjs": "8.7.0",
     "htmlparser": "1.7.7",
-    "marked": "0.5.0"
+    "marked": "0.6.2"
   }
 }
