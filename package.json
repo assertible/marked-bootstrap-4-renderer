@@ -28,6 +28,6 @@
   "dependencies": {
     "highlightjs": "8.7.0",
     "htmlparser": "1.7.7",
-    "marked": "0.7.0"
+    "marked": "4.0.10"
   }
 }
